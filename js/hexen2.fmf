@@ -3,5 +3,5 @@ name "Hexen2"
 basegame data1
 basegame fteh2
 
-package data1/pak0.pak - "../assets/data1/pak0.pak"
-package data1/pak1.pak - "../assets/data1/pak1.pak"
+package data1/pak0.pak - "/emupedia-data-hexen2/pak0.pak"
+package data1/pak1.pak - "/emupedia-data-hexen2/pak1.pak"
